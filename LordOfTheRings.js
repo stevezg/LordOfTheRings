@@ -62,7 +62,7 @@ const frodo = createCharacter(
 const legolas = createCharacter(
   'Legolas',
   'legolas',
-  'Efl',
+  'Elf',
   'Woodland Realm',
   8,
   5
